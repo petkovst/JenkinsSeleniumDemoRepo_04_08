@@ -8,6 +8,5 @@ pipeline {
                 get branch: 'main', url: 'https://github.com/petkovst/JenkinsSeleniumDemoRepo_04_08'
              }
         }
-       
     }
 }
